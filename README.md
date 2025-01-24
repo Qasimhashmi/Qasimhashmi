@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Pinkfly<br>🌱 I’m currently learning core machine processing<br>💬 Ask me about nothing....
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
@@ -22,7 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Qasimhashmi&icon=9&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/qasimhashmi959) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/qasimhashmi959) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
