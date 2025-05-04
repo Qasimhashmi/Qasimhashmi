@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in Pinkfly<br>🌱 I’m currently learning Kubernates
+🔭 I’m currently working in Pinkfly
 
 
 ## 🌐 Socials:
